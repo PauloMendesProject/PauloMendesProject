@@ -30,7 +30,7 @@ Python desktop assistant using speech recognition, text-to-speech and the Wikipe
 
 [View repository](https://github.com/PauloMendesProject/DesktopAssistant)
 
-## Currently Learning
+## Current Focus
 
 - API Testing
 - Postman
