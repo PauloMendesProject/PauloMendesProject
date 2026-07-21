@@ -1,43 +1,87 @@
-# Hi, I'm Paulo Mendes
+# Hi, I'm Paulo Mendes 👋
 
-ISTQB® CTFL Certified Software Tester with a Bachelor's degree in Computer Science.
+**ISTQB® Certified Tester Foundation Level (CTFL)**  
+🎓 Bachelor's Degree in Computer Science  
+📍 Portugal
 
-I have a technical background in software development, debugging, SQL databases and internal business applications. I am currently focused on building practical skills in software testing, API testing and test automation.
+I'm a software professional transitioning into Quality Assurance, combining a software development background with a strong focus on software quality, testing, and automation.
 
-## Core Skills
+Over the past few years I've developed internal business applications, automated workflows, maintained web applications, worked with SQL databases, and investigated software issues. This experience allows me to understand software from both the development and testing perspectives while building reliable, maintainable solutions.
 
-- Software Testing
-- Quality Assurance
-- Functional Testing
-- Regression Testing
-- Python
-- SQL
-- REST APIs
-- Git
-- Debugging
+---
 
-## Featured Projects
+# Technical Skills
 
-### AI-Powered Personalized Learning Platform
+### Software Testing
+Software Testing • Quality Assurance • Functional Testing • Regression Testing • Test Analysis • Test Design • Defect Management
 
-Full-stack educational platform built with Flask, React, SQL and the OpenAI API.
+### Programming
+Python • SQL • Java • C# • JavaScript
 
-[View repository](https://github.com/PauloMendesProject/LearningPlatform)
+### Technologies
+Flask • React • REST APIs • Git • Object-Oriented Programming (OOP) • MVC
 
-### Python Voice-Controlled Desktop Assistant
+### Methodologies
+Agile • Scrum • Software Development Life Cycle (SDLC) • Requirements Analysis • Debugging • Problem Solving
 
-Python desktop assistant using speech recognition, text-to-speech and the Wikipedia API.
+---
 
-[View repository](https://github.com/PauloMendesProject/DesktopAssistant)
+# Featured Projects
 
-## Current Focus
+## 🤖 AI-Powered Personalized Learning Platform
+
+A full-stack educational platform built with **Flask**, **React**, **SQL**, and the **OpenAI API**.
+
+### Key Features
+
+- AI-powered quiz generation
+- AI-assisted essay feedback
+- REST API backend
+- SQL database integration
+- Functional testing and debugging
+- Responsive web interface
+
+🔗 Repository  
+https://github.com/PauloMendesProject/LearningPlatform
+
+---
+
+## 🎙️ Python Voice-Controlled Desktop Assistant
+
+A Python desktop assistant that combines speech recognition, text-to-speech, and external APIs.
+
+### Key Features
+
+- Voice command recognition
+- Text-to-speech responses
+- Wikipedia integration
+- Modular architecture
+- Logging and application validation
+
+🔗 Repository  
+https://github.com/PauloMendesProject/DesktopAssistant
+
+---
+
+# Current Focus
+
+I'm currently expanding my practical QA knowledge through hands-on projects involving:
 
 - API Testing
 - Postman
+- Selenium
+- Playwright
 - Test Automation
-- Selenium / Playwright
 
-## Contact
+---
 
-- [LinkedIn](https://www.linkedin.com/in/paulomendes-project/)
-- [Email](mailto:paulomendes.project@gmail.com)
+# Connect With Me
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/paulomendes-project/
+
+💻 **GitHub**  
+https://github.com/PauloMendesProject
+
+📧 **Email**  
+paulomendes.project@gmail.com
